@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Grade
+comment1.params=grade\ maxPoints
+comment1.target=Grade(double,\ double)
+comment2.params=newGrade
+comment2.target=void\ setGrade(double)
+comment3.params=
+comment3.target=double\ getGrade()
+comment4.params=
+comment4.target=double\ getMaxPoints()
+comment5.params=
+comment5.target=double\ getPercentage()
+comment6.params=newMaxPoints
+comment6.target=void\ setMaxPoints(double)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

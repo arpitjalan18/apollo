@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Sound
+comment0.text=\n\ Write\ a\ description\ of\ class\ Sound\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Sound()
+comment2.params=limit
+comment2.target=int\ limitAmplitude(int)
+comment3.params=
+comment3.target=void\ tirmSilenceFromBeginning()
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\n\ makes\ the\ abstract\ person\ class\n\ basic\ name,\ password,\ username\ ,etc\n
+comment1.params=name\ username\ password
+comment1.target=Person(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=username\ password
+comment2.target=boolean\ access(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ type()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

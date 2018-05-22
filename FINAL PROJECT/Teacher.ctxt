@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Teacher
+comment0.text=\n\ basic\ teacher\ class,\ name,\ username,\ password,\ classroom\n
+comment1.params=name\ username\ password\ classroom
+comment1.target=Teacher(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ type()
+comment3.params=
+comment3.target=java.lang.String\ getClassroom()
+numComments=4
